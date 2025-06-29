@@ -3,6 +3,6 @@
 		description="YOUR_MOD_DESCRIPTION_HERE" 
 		tags="player characters, funny, audio"
 		dont_upload_folders=""
-		dont_upload_files=""
+		dont_upload_files="README.md"
 	>  
 </Mod>
